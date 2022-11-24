@@ -1,5 +1,5 @@
 
-# Título do Projeto
+# Secret Word
 
 Um jogo de adivinhar palavras chutando as letras baseado em 3 tentativas
 
